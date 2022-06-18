@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7mdsg76&label=Profile%20views&color=0e75b6&style=flat" alt="m7mdsg76" /> </p>
 
-- 🔭 I’m currently developing **Qademly web app**
+- 🔭 I’m currently developing <a href= "https://github.com/M7MDSG76/Supermarket-prices-comperison-Django-website">**Supermarket-prices-comperison-Django-website**</a>
 
-- 🌱 I’m currently learning **Django, Azure**
+- 🌱 I’m currently learning **Django, Data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M7MDSG76](https://github.com/M7MDSG76)
 
