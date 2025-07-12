@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/M7MDSG76](https://github.com/M7MDSG76)
 
-- 💬 Ask me about **LLMs, Java/Spring-Boot, TypeScript/Angular, Cloud Services, Web Dev, Tech Health **
+- 💬 Ask me about **LLMs, Java/Spring-Boot, TypeScript/Angular, Cloud Services, Web Dev, Tech Health**
 
 - 📫 How to reach me **mohammed.s.alghanmi@gmail.com**
 
