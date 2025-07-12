@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7mdsg76&label=Profile%20views&color=0e75b6&style=flat" alt="m7mdsg76" /> </p>
 
-- 🔭 I’m currently developing <a href= "https://github.com/M7MDSG76/Supermarket-prices-comperison-Django-website">**Supermarket-prices-comperison-Django-website**</a>
+- 🔭 I’m currently developing <a href= "https://otd.waseel.com/">**Over Treatment Detection OTD**</a>
 
-- 🌱 I’m currently learning **Django, Data structures and algorithms**
+- 🌱 I’m currently learning **Agentic AI, and more about software engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M7MDSG76](https://github.com/M7MDSG76)
 
-- 💬 Ask me about **python, Django, Web Dev**
+- 💬 Ask me about **LLMs, Java/Spring-Boot, TypeScript/Angular, Cloud Services, Web Dev, Tech Health **
 
 - 📫 How to reach me **mohammed.s.alghanmi@gmail.com**
 
